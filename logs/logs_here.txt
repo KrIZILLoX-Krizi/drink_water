@@ -1,0 +1,1 @@
+App logs are added to this directory
